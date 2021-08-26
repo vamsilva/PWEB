@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>IoT: INTERNET DAS COISAS </title>
+<meta charset = "UTF-8"/>
+</head>
+
+<body bgcolor="#6495ED" text="#CC0000">
+<font color="#7FFF00" face="arial" size="12"> Internet das Coisas: Introdução/font>
+
+<p>O conceito de Internet das Coisas, ou Internet of Things (IoT) é de uma enorme rede de <p>
+<p>dispositivos conectados. Dispositivos como computador, smartphone, tablet ou set-top box,<p>
+<p>entre outros estariam conectados, oferecendo assim uma performance e experiência nunca antes <p>
+<p>vista ao usuário. A Internet das Cosias é focada nos equipamentos do dia a dia de um indivíduo,  <p>
+<p>instituição, empresa ou mesmo de uma cidade inteira.</p>
+
+<font color="#7FFF00" face="arial" size="12"> Exemplo de aplicação de IoT/font>
+
+
+<font color="#7FFF00" face="arial" size="12"> Tecnologia 5G e IoT/font>
+
+
+<font color="#7FFF00" face="arial" size="12"> Conclusão/font>
+
+
+<font color="#7FFF00" face="arial" size="12"> Referências/font>
+
+
+</body>
+
+</html>
+
+
+
+
+
+
+
